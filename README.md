@@ -1,0 +1,2 @@
+# managic
+repositorio
